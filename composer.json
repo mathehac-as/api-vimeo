@@ -1,0 +1,8 @@
+{
+    "name": "family/api-vimeo",
+    "require": {
+        "vimeo/vimeo-api": "^3.0",
+        "lincanbin/php-pdo-mysql-class": "^2.2",
+        "jr-cologne/db-class": "^2.4"
+    }
+}
